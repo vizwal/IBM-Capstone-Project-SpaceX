@@ -1,4 +1,4 @@
-# IBM Data Science Capstone Project - SpaceX
+# IBM Capstone Project - SpaceX
 
 ## Introduction
 
